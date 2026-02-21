@@ -96,7 +96,7 @@ By inspecting this file I learned that:
 
 1.  The file size is 81K
 
-2.it is ASCII text
+2. it is ASCII text
 
 3.  It has 984 lines (including the header)
 
@@ -123,6 +123,7 @@ By inspecting this file I learned that:
   60 9
   
   53 10
+
 Which means Chromosome 1 has 155 SNPs, chr2 127, chr5 122, chr3 107, chr7 97, chr4 91, chr6 76, chr8 62, chr9 60, chr10 53.
 
 6. There are 27 SNPs with the label unknown and 6 SNPs with the label multiple
